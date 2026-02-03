@@ -48,3 +48,10 @@ random-password-generator/
 ├── style.css
 ├── script.js
 └── README.md
+```
+
+## 👨‍💻 Author
+
+Huzaif Rauf Tarazi
+Frontend Developer | MERN Stack Learner | Web Developer
+
