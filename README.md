@@ -13,7 +13,7 @@
 ## 🌐 Live Demo
 
 👉 **Live Preview:**  
-https://huzaiftarazi.github.io/random-password-generator  
+https://huzaiftarazi.github.io/Random-Password-Generator/
 
 ---
 
